@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<ruleset name="experiment-doctrine-cs-bug-declare"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:noNamespaceSchemaLocation="vendor/squizlabs/php_codesniffer/phpcs.xsd">
+    <description>Coding standard based on Doctrine CS to test the declare statement.</description>
+
+    <rule ref="Doctrine"/>
+</ruleset>
