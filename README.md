@@ -3,13 +3,13 @@
 This repository tests how the Doctrine coding standard deals with the declare 
 statement and assignment operator spaces.
 
-# How to install?
+## How to install?
 
 ```
 composer install
 ```
 
-# How to run?
+## How to run?
 
 ```
 vendor/bin/phpcs --standard=ruleset.xml src/
